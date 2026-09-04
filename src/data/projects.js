@@ -29,7 +29,7 @@ const projects = [
       "Tailwind CSS",
       "JavaScript",
     ],
-    image: "/assets/images/Project_2.jpg",
+    image: "/assets/images/Project_2.JPG",
     url: "https://nexustravels.net/",
   },
 
@@ -43,7 +43,7 @@ const projects = [
       "Tailwind CSS",
       "JavaScript",
     ],
-    image: "/assets/images/Project_3.jpg",
+    image: "/assets/images/Project_3.JPG",
     url: "https://smiledental.pk/",
   },
 
@@ -57,7 +57,7 @@ const projects = [
       "Tailwind CSS",
       "JavaScript",
     ],
-    image: "/assets/images/Project_4.jpg",
+    image: "/assets/images/Project_4.JPG",
     url: "https://thedentalexperience.org/",
   },
 ];
