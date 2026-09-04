@@ -15,7 +15,7 @@ const projects = [
       "Express.js",
       "MongoDB",
     ],
-    image: "/assets/images/Project_1.jpg",
+    image: "/assets/images/Project_1.JPG",
     url: "https://ms-footwear-xi.vercel.app/",
   },
 
